@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "default"
 locale                   : "kr-KR"
 title                    : "Blooming Archive"
 title_separator          : "-"
-subtitle                 : "지식의 꽃을, 화려히 피워내라" # site tagline that appears below site title in masthead
+subtitle                 : "열심히 뚝딱 만들고 있는 중~" # site tagline that appears below site title in masthead
 name                     : "Mellow1213"
 description              : "Game Developer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
