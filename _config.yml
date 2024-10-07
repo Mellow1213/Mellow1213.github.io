@@ -15,20 +15,20 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "kr-KR"
-title                    : "Blooming Archive"
+locale                   : "ko-KR"
+title                    : "✨Shining Archive✨"
 title_separator          : "-"
-subtitle                 : "열심히 뚝딱 만들고 있는 중~" # site tagline that appears below site title in masthead
+subtitle                 : "\"가슴에 별을 간직한 사람은 어둠 속에서 길을 잃지 않는다.\"" # site tagline that appears below site title in masthead
 name                     : "Mellow1213"
 description              : "Game Developer"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://mellow1213.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/Mellow1213/Mellow1213.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 250
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -107,12 +107,12 @@ author:
   name             : "Mellow1213"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Game Developer"
-  location         : "Chuncheon, Korea"
-  email            :
+  location         : "South Korea"
+  email            : "dpcks7282@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "dpcks7282@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
