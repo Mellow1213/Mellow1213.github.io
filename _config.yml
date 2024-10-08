@@ -20,7 +20,7 @@ title                    : "✨Shining Archive✨"
 title_separator          : "-"
 subtitle                 : "\"가슴에 별을 간직한 사람은 어둠 속에서 길을 잃지 않는다.\"" # site tagline that appears below site title in masthead
 name                     : "Mellow1213"
-description              : "Game Developer"
+description              : "게임 개발자의 지식 창고"
 url                      : "https://mellow1213.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/Mellow1213/Mellow1213.github.io"
@@ -105,28 +105,28 @@ analytics:
 # Site Author
 author:
   name             : "Mellow1213"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/avatar.png"
   bio              : "Game Developer"
   location         : "South Korea"
-  email            : "dpcks7282@gmail.com"
+  email            : 
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "dpcks7282@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "dpcks7282@gmail.com"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      # url: "https://your-website.com"
+##    - label: "Twitter"
+ #     icon: "fab fa-fw fa-twitter-square"
+ ##     # url: "https://twitter.com/"
+  ##  - label: "Facebook"
+   #   icon: "fab fa-fw fa-facebook-square"
+   #   # url: "https://facebook.com/"
+   # - label: "GitHub"
+   #   icon: "fab fa-fw fa-github"
+   #   # url: "https://github.com/"
+   # - label: "Instagram"
+   #   icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
@@ -287,6 +287,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
-      share: true
+      comments: false
+      share: false
       related: true
+      toc: true
+      toc_icon: "bars"
+      toc_sticky: true
