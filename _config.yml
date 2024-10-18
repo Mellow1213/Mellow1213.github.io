@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "default"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "✨Shining Archive✨"
+title                    : "Shining-Archive"
 title_separator          : "-"
 subtitle                 : "\"가슴에 별을 간직한 사람은 어둠 속에서 길을 잃지 않는다.\"" # site tagline that appears below site title in masthead
 name                     : "Mellow1213"
