@@ -24,7 +24,7 @@ N개의 수들 -> `vector<int> dataset;`
 
 그리고 입력받은 값을 사전 순으로 나열해야 하므로 처리하기 편하게 정렬 알고리즘을 사용하자.
 
-```C++
+```cpp
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -73,7 +73,7 @@ M개의 수를 고른 순간 수를 출력하자.
 출력은 어떻게 해야할까?
 재귀함수의 endpoint때 select 벡터의 값이 하나의 탐색 값이므로 해당 시점에서 select를 출력하자
 
-```C++
+```cpp
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -125,7 +125,7 @@ int main(){
 노란 공이 하나밖에 없는 주머니에서 노란 공을 뽑았는데 다음 공이 또 노란색일 수는 없기 때문이다.
 따라서 해당 순서에 있는 수를 골랐다고 표기하기 위해 방문을 체크하는 vector를 두자.
 
-```C++
+```cpp
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -196,7 +196,7 @@ int main(){
 > 이전의 방문을 했는지, 안했는지에 대해서 판단하는 `!visit[i]` 로직 또한 프루닝이다.
 
 
-```C++
+```cpp
 #include <iostream>
 #include <vector>
 #include <algorithm>
