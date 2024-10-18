@@ -1,7 +1,7 @@
 ---
-title: "백준 15663 - A -> B"
-tags:
-  - [백준, 백트래킹, 코딩테스트]
+title: "[BOJ][Silver II] 15663. A -> B"
+excerpt: "그리디 알고리즘을 이용하여 간단하게 풀 수 있는 문제."
+category: BOJ
 toc: true
 last_modified: 2024-10-11T11:17:00
 ---
