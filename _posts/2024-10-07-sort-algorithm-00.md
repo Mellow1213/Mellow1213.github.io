@@ -2,7 +2,7 @@
 title: "[Algorithm] 정렬 알고리즘 이론"
 excerpt: "정렬 알고리즘에 대한 이론 정리"
 categories: 
-  - CS
+  - algorithm
 toc: true
 date: 2024-10-07
 last_modified_at: 2024-10-07
