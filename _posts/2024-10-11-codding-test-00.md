@@ -1,5 +1,5 @@
 ---
-title: "[BOJ][Silver II] 15663. N과 M(9)"
+title: "[BOJ][Silver II] 15663번: N과 M(9)"
 excerpt: "전형적인 back-tracking 문제 중 하나"
 categories:
   - boj

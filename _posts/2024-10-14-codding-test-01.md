@@ -1,5 +1,5 @@
 ---
-title: "[BOJ][Silver II] 15663. A -> B"
+title: "[BOJ][Silver II] 15663번: A -> B"
 excerpt: "그리디 알고리즘을 이용하여 간단하게 풀 수 있는 문제."
 category: boj
 toc: true
