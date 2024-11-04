@@ -6,11 +6,11 @@ toc: true
 last_modified: 2024-11-04T14:55:00
 ---
 # 문제
----
+--- 
 
 [7562번: 나이트의 이동 바로가기](https://www.acmicpc.net/problem/7562)
 
-![alt text](image.png)
+![alt text](/images/image.png))
 
 나이트가 이동하려고 하는 좌표가 있으면 몇 번 움직여야 해당 좌표로 움직이나? 에 대한 문제.
 
